@@ -1,0 +1,13 @@
+* Command line arguments
+--name --> to pass a custom name to the suite
+--argumentfile --> to give a suite file argument that contains a list of robot tests
+
+--settag
+ -- to group test cases say, database related/production related/development related etc.
+--pythonpath, to add python library paths during runtime
+--listener
+  --- start_suite (that runs before every suite starts running)
+  --- end_suite (that runs after every suite completes running)
+  --- start_test
+  --- end_test
+  https://robotframework.googlecode.com/svn/trunk/doc/userguide/RobotFrameworkUserGuide.html#listener-interface-method-signatures

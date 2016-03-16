@@ -1,0 +1,31 @@
+.test{
+  line-height: 20px;
+}
+
+.test-summary{
+  display: table;
+}
+
+.test-summary span{
+  display: table-cell;
+  padding-right: 30px;
+}
+
+.message{
+  color: blue;
+}
+
+#allTests{
+  width: 100%;
+}
+
+td{
+  padding: 4px;
+  border: 1px solid black;
+  text-align: center;
+  word-wrap: break-word;
+}
+
+table{
+  border-collapse:collapse;
+}

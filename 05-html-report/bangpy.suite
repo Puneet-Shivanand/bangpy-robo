@@ -1,0 +1,3 @@
+#pybot --argumentfile /home/sk/ws/bangpy-robo/05-html-report/bangpy.suite
+/home/sk/ws/bangpy-robo/05-html-report/dev.robot
+/home/sk/ws/bangpy-robo/05-html-report/prod.robot

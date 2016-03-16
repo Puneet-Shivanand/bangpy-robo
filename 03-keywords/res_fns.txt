@@ -1,0 +1,6 @@
+*** Keyword ***
+Before Each Test
+	Log To Console	\nThis is a before test hook.......
+
+After Each Test
+	Log To Console	This is an after test hook.......
