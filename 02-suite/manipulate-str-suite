@@ -1,3 +1,4 @@
+#pybot --settag x@y --argumentfile /home/sk/ws/bangpy-robo/02-suite/manipulate-str-suite
 /home/sk/ws/bangpy-robo/02-suite/init-vars.robot
 /home/sk/ws/bangpy-robo/02-suite/concat-strs.robot
 /home/sk/ws/bangpy-robo/02-suite/replace-patterns.robot

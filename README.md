@@ -10,3 +10,6 @@
 5. Generate html report from the test statistics file, output.xml
    * `pybot --settag juicy bangpy.suite`
    * `python html-parse.py`
+6. Robot framework with selenium2....
+   * A walkthrough with the demo app that comes along with the library,
+       https://github.com/robotframework/Selenium2Library
